@@ -21,8 +21,7 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
-  technical systems to create impact.<br>
+ I am rational as well as passionate about my work. I am a Full Stack Web Developer but my main interest lies in competitive coding on various platforms.I'm no stranger to hard work and my strength is I am flexible with working hours & time-bound. I am always curious to learn something new.<br>
   My name describes my qualities,
   A: Active Learner
   D: Dedicated
