@@ -8,7 +8,7 @@
     <a href="https://twitter.com/AdityaS81507097"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/twitter.png" width="40px" style="max-width: 100%;"></a>
     <a href="https://www.instagram.com/adi_m427"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/instagram.png" width="40px" style="max-width: 100%;"></a>
 </p>
-<h3>✨What I do? 👨‍💻</h3>
+<h3>What I do? 👨‍💻</h3>
 <details>
 <summary>Full Stack Developer 🍥</summary>
   <ul>
@@ -17,7 +17,7 @@
     <li><a href="#">Brainiac</a></li>
   </ul>
 </details>
-<h3>✨The Questions You May Have 😕</h3>
+<h3>The Questions You May Have 😕</h3>
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
@@ -31,23 +31,11 @@
   Y: Youthful
   A: Amiable
  </pre>
- <summary>What you love the most? 👨</summary>
+</details>
+<details>
+    <summary>What you love the most? 👨</summary>
  <pre>
     I love Programming<g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji>
- </pre> 
+ </pre>
 </details>
 
-<!--
-**Rathore-Aditya/Rathore-Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
