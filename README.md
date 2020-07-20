@@ -8,7 +8,32 @@
     <a href="https://twitter.com/AdityaS81507097"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/twitter.png" width="40px" style="max-width: 100%;"></a>
     <a href="https://www.instagram.com/adi_m427"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/instagram.png" width="40px" style="max-width: 100%;"></a>
 </p>
-
+<h3>What I do? 👨‍💻</h3>
+<details>
+<summary>Full Stack Developer 🍥</summary>
+  <ul>
+    <li><a href="#">masterPortfolio</a></li>
+    <li><a href="#">EventX</a></li>
+    <li><a href="#">Brainiac</a></li>
+    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
+    </ul>
+</details>
+<h3>The Questions You May Have 😕</h3>
+<details>
+  <summary>Who are you? 👨</summary>
+  <pre>
+  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
+  technical systems to create impact.<br>
+  My name describes my qualities,
+  A: Active Learner
+  D: Dedicated
+  I: Intrested
+  T: Trustworthy
+  Y: Youthful
+  A: Amiable
+ </pre>
+</details>
+![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=Rathore-Aditya&show_icons=true)
 <!--
 **Rathore-Aditya/Rathore-Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
