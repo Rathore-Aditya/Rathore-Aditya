@@ -15,7 +15,7 @@
     <li><a href="#">masterPortfolio</a></li>
     <li><a href="#">EventX</a></li>
     <li><a href="#">Brainiac</a></li>
-    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
+<!--     <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li> -->
     </ul>
 </details>
 <h3>The Questions You May Have 😕</h3>
