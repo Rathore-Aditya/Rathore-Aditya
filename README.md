@@ -21,7 +21,7 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
- I am rational as well as passionate about my work. I am a Full Stack Web Developer but my main interest lies in competitive coding on various platforms.I'm no stranger to hard work and my strength is I am flexible with working hours & time-bound. I am always curious to learn something new.<br>
+ <p>I am rational as well as passionate about my work. I am a Full Stack Web Developer but my main interest lies in competitive coding on various platforms.I'm no stranger to hard work and my strength is I am flexible with working hours & time-bound. I am always curious to learn something new.</p><br>
   My name describes my qualities,
   A: Active Learner
   D: Dedicated
