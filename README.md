@@ -1,4 +1,4 @@
-### Hi Traveller, I am Aditya  👋 <a href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></a>
+### Hi Traveller, I am Aditya  👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
 
 <!--
 **Rathore-Aditya/Rathore-Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
