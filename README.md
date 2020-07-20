@@ -1,7 +1,7 @@
 ### <h1>Hi Traveller, I am <a href="#" style="color: #0366d6; text-decoration: none;">Aditya</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100px;"/></h1>
 
 <p>
-    <a href="#"><img src="./logos/linkedin.png" width="40px" style="max-width: 100%;"></a>
+    <a href="#"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/linkedin.png" width="40px" style="max-width:100%;"></a>
     <a href="#"><img src="./logos/github-logo.png" width="40px" style="max-width: 100%;"></a>
     <a href="#"><img src="./logos/facebook.png" width="40px" style="max-width: 100%;"></a>
     <a href="#"><img src="./logos/google-plus.png" width="40px" style="max-width: 100%;"></a>
