@@ -2,11 +2,11 @@
 
 <p>
     <a href="#"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/linkedin.png" width="40px" style="max-width:100%;"></a>
-    <a href="#"><img src="./logos/github-logo.png" width="40px" style="max-width: 100%;"></a>
-    <a href="#"><img src="./logos/facebook.png" width="40px" style="max-width: 100%;"></a>
-    <a href="#"><img src="./logos/google-plus.png" width="40px" style="max-width: 100%;"></a>
-    <a href="#"><img src="./logos/twitter.png" width="40px" style="max-width: 100%;"></a>
-    <a href="#"><img src="./logos/instagram.png" width="40px" style="max-width: 100%;"></a>
+    <a href="#"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/github-logo.png" width="40px" style="max-width: 100%;"></a>
+    <a href="#"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/facebook.png" width="40px" style="max-width: 100%;"></a>
+    <a href="#"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/google-plus.png" width="40px" style="max-width: 100%;"></a>
+    <a href="#"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/twitter.png" width="40px" style="max-width: 100%;"></a>
+    <a href="#"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/instagram.png" width="40px" style="max-width: 100%;"></a>
 </p>
 
 <!--
