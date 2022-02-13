@@ -10,7 +10,7 @@
 </p>
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Full Stack Developer 🍥</summary>
+<summary>Front End Developer 🍥</summary>
   <ul>
     <li><a href="#">masterPortfolio</a></li>
     <li><a href="#">EventX</a></li>
