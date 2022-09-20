@@ -1,40 +1,68 @@
-### <h1>Hi Traveller, I am <a href="#" style="color: #0366d6; text-decoration: none;">Aditya</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100px;"/></h1>
+<h3 align="center">
+  Welcome to Aditya Singh Rathore GitHub profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h3>
 
-<p>
-    <a href="https://www.linkedin.com/in/aditya-singh-rathore-a44947154/"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/linkedin.png" width="40px" style="max-width:100%;"></a>
-    <a href="https://github.com/Rathore-Aditya"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/github-logo.png" width="40px" style="max-width: 100%;"></a>
-    <a href="https://www.facebook.com/adityasingh.rathor.73"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/facebook.png" width="40px" style="max-width: 100%;"></a>
-    <a href="mailto:adityarock.up@gmail.com"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/google-plus.png" width="40px" style="max-width: 100%;"></a>
-    <a href="https://twitter.com/AdityaS81507097"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/twitter.png" width="40px" style="max-width: 100%;"></a>
-    <a href="https://www.instagram.com/adi_m427"><img src="https://github.com/Rathore-Aditya/Rathore-Aditya/raw/master/logos/instagram.png" width="40px" style="max-width: 100%;"></a>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/Pujarini/Pujarini"><img src="https://readme-typing-svg.herokuapp.com?color=%0E85C9&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+profile;I+am+Pujarini;Web+Developer;Twitter+Space+Host;Technical+Blogger%3C3"></a>
 </p>
-<h3>What I do? 👨‍💻</h3>
-<details>
-<summary>Front End Developer 🍥</summary>
-  <ul>
-    <li><a href="#">masterPortfolio</a></li>
-    <li><a href="#">EventX</a></li>
-    <li><a href="#">Brainiac</a></li>
-  </ul>
-</details>
-<h3>The Questions You May Have 😕</h3>
-<details>
-  <summary>Who are you? 👨</summary>
-  <pre>
- <p>I am rational as well as passionate about my work. I am a Full Stack Web Developer but my main interest lies in competitive coding<br/> on various platforms.I'm no stranger to hard work and my strength is I am flexible with working hours & time-bound.<br/> I am always curious to learn something new.</p><br>
-  My name describes my qualities,
-  A: Active Learner
-  D: Dedicated
-  I: Intrested
-  T: Trustworthy
-  Y: Youthful
-  A: Amiable
- </pre>
-</details>
-<details>
-    <summary>What you love the most? 👨</summary>
- <pre>
-    I love Programming<g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji>
- </pre>
-</details>
 
+
+
+---
+
+<div align="center">
+<p>I am a frontend developer working towards being a full-stack developer</p>
+<p>Currently working at a unicorn startup as a Frontend developer</p>
+<p>Learning Typescript and Next.js by end of 2022</p>
+
+</div>
+
+
+
+
+<div align="center">
+
+  ![github-user-contribution](https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only)
+  
+##  Currently working
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pujarini&repo=devMeet&show_owner=true)](https://github.com/Pujarini/devMeet)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pujarini&repo=WShopfy&show_owner=true)](https://github.com/Pujarini/prepShop)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pujarini&repo=JS-prep-101&show_owner=true)](https://github.com/Pujarini/JS-prep-101)
+
+
+# Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%232C8EBB.svg?style=for-the-badge&logo=React&logoColor=white)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pujarini&theme=shades-of-purple)](https://git.io/streak-stats)
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats  </h3>
+
+[![Pujarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pujarini&show_icons=true&theme=tokyonight)](https://github.com/pujarini/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pujarini&hide=php&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<h3 align="center">Connect with me 🤝 </h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujarini-jena/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pujarini_codeit/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pujarini_codeit)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pujarini97@gmail.com)
+  
+</div>
+
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pujarini&repo=github-readme-stats)](https://github.com/Pujarini/github-readme-stats) -->
+</div>
